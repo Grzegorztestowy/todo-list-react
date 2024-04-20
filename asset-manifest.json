@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dev/todolist-react/static/css/main.813c8739.css",
-    "main.js": "/dev/todolist-react/static/js/main.094fa640.js",
-    "static/js/453.887ffefe.chunk.js": "/dev/todolist-react/static/js/453.887ffefe.chunk.js",
-    "index.html": "/dev/todolist-react/index.html",
-    "main.813c8739.css.map": "/dev/todolist-react/static/css/main.813c8739.css.map",
-    "main.094fa640.js.map": "/dev/todolist-react/static/js/main.094fa640.js.map",
-    "453.887ffefe.chunk.js.map": "/dev/todolist-react/static/js/453.887ffefe.chunk.js.map"
+    "main.css": "/todo-list-react/static/css/main.813c8739.css",
+    "main.js": "/todo-list-react/static/js/main.d3ccb20d.js",
+    "static/js/453.887ffefe.chunk.js": "/todo-list-react/static/js/453.887ffefe.chunk.js",
+    "index.html": "/todo-list-react/index.html",
+    "main.813c8739.css.map": "/todo-list-react/static/css/main.813c8739.css.map",
+    "main.d3ccb20d.js.map": "/todo-list-react/static/js/main.d3ccb20d.js.map",
+    "453.887ffefe.chunk.js.map": "/todo-list-react/static/js/453.887ffefe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.813c8739.css",
-    "static/js/main.094fa640.js"
+    "static/js/main.d3ccb20d.js"
   ]
 }
