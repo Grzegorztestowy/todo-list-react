@@ -1,5 +1,4 @@
-# DEMO
-[DEMKO](https://grzegorztestowy.github.io/todo-list-react/)
+
 
 # Getting Started with Create React App
 
