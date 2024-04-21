@@ -1,7 +1,7 @@
-# Grzegorz Prabucki - Lista zadań
+### `Grzegorz Prabucki - Lista zadań`
 ## ^_^
 
-[demo]((https://github.com/facebook/create-react-app/)
+[demo](https://grzegorztestowy.github.io/todo-list-react/)
 
 ## Welcome to the Readme :-)
 I am presenting another project made for educational purposes.
@@ -9,7 +9,7 @@ This time it is a task list in which you can mark completed tasks and delete ent
 
 Presentation :
 
-![presentation](img/modul7present.png)
+![presentation](modul7present.png)
 
 
 Used technologies:
