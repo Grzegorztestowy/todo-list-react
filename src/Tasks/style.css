@@ -43,7 +43,12 @@
 }
 
 .tasks__button--remove {
+    border: none;
     background-color: #e61942;
+    width: 30px;
+    height: 30px;
+    padding: 0;
+    transition: 0.5s;
 }
 
 .tasks__button--remove:hover {
@@ -55,6 +60,6 @@
     transition: 0.5s;
 }
 
-.tasks__hidden {
+.tasks__item--hidden {
     display: none;
 }
