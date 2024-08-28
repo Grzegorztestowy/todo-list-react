@@ -5,9 +5,19 @@ import Buttons from "./Buttons";
 import Section from "./Section";
 import Header from "./Header";
 import Container from "./Container";
+import styled from "styled-components";
+
+const Button = styled.button`
+  border: 1px solid teal;
+  padding: 10px;
+  margin: 10px;
+  background: white;
+  color: teal;
+  `;
 
 function App() {
-  const [hideDone, setHideDone] = useState(false);
+  <Button>pszycisk</Button>
+  const [hideDone, setHideDone] = useState(false); 
   const tasksFromLocalStorage = localStorage.getItem("tasks");
 
 const [tasks, setTasks] = useState(
